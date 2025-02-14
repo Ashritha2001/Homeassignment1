@@ -97,9 +97,9 @@ This assignment provides hands-on experience with tensor operations, loss functi
 
 Questions to Answer:
 1.	What patterns do you observe in the training and validation accuracy curves?
-   Patterns in accuracy curves: You may observe the accuracy increasing in training but not in validation, indicating overfitting.
+Ans: Patterns in accuracy curves: You may observe the accuracy increasing in training but not in validation, indicating overfitting.
 2.	How can you use TensorBoard to detect overfitting?
-   Using TensorBoard to detect overfitting: If validation accuracy starts decreasing while training accuracy increases, overfitting might be occurring.
+Ans: Using TensorBoard to detect overfitting: If validation accuracy starts decreasing while training accuracy increases, overfitting might be occurring.
 3.	What happens when you increase the number of epochs?
-   Effect of increasing epochs: With more epochs, the model might start overfitting, which you can monitor in TensorBoard.
+Ans: Effect of increasing epochs: With more epochs, the model might start overfitting, which you can monitor in TensorBoard.
 
