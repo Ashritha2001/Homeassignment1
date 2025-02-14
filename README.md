@@ -1,7 +1,8 @@
 # Homeassignment1
 Student Information
 
-Name: Ashritha Reddy
+Name: Ashritha Reddy Katta
+Student ID : 700755460
 Course: Neural Networks and Deep Learning
 University: University of Central Missouri
 Submission Date: 2/13/2025
@@ -93,3 +94,12 @@ Provides steps to visualize training progress using TensorBoard.
 Conclusion
 
 This assignment provides hands-on experience with tensor operations, loss functions, optimizer comparison, and model training visualization using TensorBoard.
+
+Questions to Answer:
+1.	What patterns do you observe in the training and validation accuracy curves?
+   Patterns in accuracy curves: You may observe the accuracy increasing in training but not in validation, indicating overfitting.
+2.	How can you use TensorBoard to detect overfitting?
+   Using TensorBoard to detect overfitting: If validation accuracy starts decreasing while training accuracy increases, overfitting might be occurring.
+3.	What happens when you increase the number of epochs?
+   Effect of increasing epochs: With more epochs, the model might start overfitting, which you can monitor in TensorBoard.
+
