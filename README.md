@@ -90,18 +90,6 @@ Trains a neural network while logging accuracy and loss values.
 
 Provides steps to visualize training progress using TensorBoard.
 
-Video Submission
-
-A 2-3 minute video demonstrating the implementation and explaining key code snippets.
-
-The video includes a discussion on TensorBoard analysis.
-
-Submission
-
-The GitHub repository link with all source files, including this README, should be submitted.
-
-The video should be uploaded as per the submission guidelines.
-
 Conclusion
 
 This assignment provides hands-on experience with tensor operations, loss functions, optimizer comparison, and model training visualization using TensorBoard.
